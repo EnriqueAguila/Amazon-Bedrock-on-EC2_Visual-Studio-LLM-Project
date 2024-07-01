@@ -17,8 +17,8 @@ def main():
     pt.print_and_log(message)
 
     bedrock = Bedrock()
-    prompt = "Write a paragraph about Steve Jobs and his impact on the world."
-    image_prompt = "A beautiful sunset over the ocean, with a sailboat in the distance."
+    prompt = "El calentamiento global como afecta al planeta."
+    image_prompt = "delfin."
 
     try:
         # Titan Text Model
